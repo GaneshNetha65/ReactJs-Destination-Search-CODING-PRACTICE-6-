@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.heading {
+  text-align: center;
+}
+.input {
+  text-align: center;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+.destinations-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: inherit;
+}
